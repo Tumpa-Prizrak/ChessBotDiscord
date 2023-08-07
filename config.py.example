@@ -1,0 +1,5 @@
+from discord import Object
+
+TOKEN: str = "xxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxx_xxxxxxxxxx"
+GUILD_OBJECT: Object = Object(0)
+WELCOME_CHANNEL: int = 0
